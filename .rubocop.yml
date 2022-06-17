@@ -9,6 +9,8 @@ AllCops:
 
 Layout/LineLength:
   Max: 120
+Layout/EndOfLine: 
+  EnforcedStyle: lf
 Metrics/MethodLength:
   Max: 20
 Metrics/AbcSize:
@@ -49,5 +51,3 @@ Style/HashTransformKeys:
   Enabled: false
 Style/HashTransformValues:
   Enabled: false
-Style/EndOfLine: 
-  EnforcedStyle: lf
