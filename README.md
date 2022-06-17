@@ -8,42 +8,36 @@
 ## Built With
 
 - Ruby
+- IRB
+- linter: Rubocop
 
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+```bash
+  git clone git@github.com:joel-kalema/my_Enumeration.git
+  cd into the folder by typing: cd my_Enumeration
+```
+open your code editor and run 
+```bash
+  bundle install
+```
 
 ## Authors
 
-👤 **Author1**
+#### :bust_in_silhouette: Molnar Emese 
+  - [Mesi21](https://github.com/Mesi21)
+  - [LinkedIn](https://www.linkedin.com/in/emesemesimolnar/)  
+  - [Twitter](https://twitter.com/buksimesi21) 
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+#### :bust_in_silhouette: Joel kalema
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- [joel-kalema](https://github.com/Mesi21)
+- [LinkedIn](https://www.linkedin.com/in/joel-kalema-30518a230/)
+- [Twitter](https://twitter.com/JoelJklm)
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
+:heavy_plus_sign: Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
@@ -53,9 +47,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse
 
 ## 📝 License
 
