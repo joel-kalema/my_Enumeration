@@ -1,4 +1,5 @@
 # Module defined in my_enumerable.rb file
+
 module MyEnumerable
   def all?
     return true unless block_given?
