@@ -2,7 +2,7 @@
 
 # My Enumerable
 
-> This project represents our own implementation of the all?, any? and filter methods.
+> This project represents our own implementation of the all?, any? and filter methods
 
 ## Built With
 
