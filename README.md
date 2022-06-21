@@ -35,7 +35,7 @@ open your code editor and run
 
 #### :bust_in_silhouette: Joel kalema
 
-- [joel-kalema](https://github.com/Mesi21)
+- [joel-kalema](https://github.com/joel-kalema)
 - [LinkedIn](https://www.linkedin.com/in/joel-kalema-30518a230/)
 - [Twitter](https://twitter.com/JoelJklm)
 
